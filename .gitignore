@@ -1,0 +1,34 @@
+# Diretórios e arquivos do Go
+/bin/
+/pkg/
+/vendor/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de log
+*.log
+
+# Arquivos de build
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Arquivos de teste
+*.test
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependências
+go.sum
